@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**cframe1337/cframe1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Welcome to cframe1337's profile
+<div id="header" align="center">
+  <img src="https://badges.pufler.dev/visits/cframe1337/cframe1337">
+  <a href="https://discord.com/users/1036386440067698718">
+    <img src="https://img.shields.io/badge/Discord-hackthread-purple" alt="Discord"/>
+  </a>
+  <a href="https://t.me/jvmdll">
+    <img src="https://img.shields.io/badge/Telegram-jvmdll-blue" alt="Telegram"/>
+  </a>
+  <a href="https://www.youtube.com/@cframemovies">
+    <img src="https://img.shields.io/badge/YouTube-cframemovies-red" alt="YouTube"/>
+  </a>
+</div>
