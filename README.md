@@ -1,4 +1,3 @@
-## Welcome to cframe1337's profile
 <div id="header" align="center">
   <img src="https://badges.pufler.dev/visits/cframe1337/cframe1337">
   <a href="https://discord.com/users/1036386440067698718">
@@ -12,5 +11,11 @@
   </a>
 </div>
 <div id="gifs" align="center">
-  <img src="https://tenor.com/i7GzbyqL4WN.gif"/>
+  <img src="https://media1.tenor.com/m/aFz34-PHfj8AAAAC/undetectable-until-inject-ud-unitl-inject.gif" height="100px" width="400px"/>
+  <img src="https://media1.tenor.com/m/sIJkakzOXUMAAAAC/perfectaim.gif" height="100px" width="400px"/>
+</div>
+<div id="gifs2" align="center">
+  <img src="https://media1.tenor.com/m/TPOYGkP-YIAAAAAC/csgo-valve-anti-cheat.gif" height="100px" width="400px"/>
+  <img src="https://media1.tenor.com/m/Sn1cCSEO2O4AAAAC/byfron-hyperion.gif" height="100px" width="400px"/>
 </div> 
+
