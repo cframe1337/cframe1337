@@ -2,7 +2,7 @@
 #profile-title: base64:4pqhY2ZyYW1lMTMzNyB2bGVzcw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/cframe1337/cframe1337/storage
+#support-url: https://raw.githubusercontent.com/cframe1337/cframe1337/refs/heads/main/storage/prx.txt
 #profile-web-page-url: https://github.com/cframe1337/cframe1337
 
 vless://feb6f54a-1c99-4281-b0d4-113765e70c61@93.185.163.238:8082?security=reality&sni=use.fontawesome.com&type=http&path=media%2Fdownload%3Ffile_id%3D12345%26ReturnUrl%3D%2Fmedia%2Fdownload%2Fcallback%3Fresponse_type%3Ddownload%26client_id%3DmediaClient%26redirect_uri%3Dhttps%3A%2F%2Fyourapp.com%2Fsuccess&fp=chrome&pbk=1wsuGvwHBl4upMnlmg3ehyqL-CgRpK9g4XZXkUX-B3k&sid=6a69d0c3821da542#🔒 VL-HTTP-RLT 🇳🇱 NL-93.185.163.238:8082
