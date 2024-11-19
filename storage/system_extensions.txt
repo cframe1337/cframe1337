@@ -1,0 +1,1 @@
+{'.sys','.reg','.manifest','.tmp','.bak','.dmp','.evt','.evtx','.log','.ini','.cfg','.dat','.cab','.msi'}
