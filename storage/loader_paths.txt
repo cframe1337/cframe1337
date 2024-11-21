@@ -1,1 +1,1 @@
-['C:/Users/%USERNAME%/AppData/Roaming/.tlauncher/legacy/Minecraft', 'C:/Users/%USERNAME%/Desktop', 'C:/']
+['C:/']
