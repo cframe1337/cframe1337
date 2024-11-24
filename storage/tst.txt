@@ -1,0 +1,73 @@
+@vp.virtualize.include
+@vp.anti_debug.reject_debugger
+@vp.anti_tamper.reject_tamper
+@vp.anti_debug.reject_proxy_debugger
+def main_menu():
+    windows_utils.clear()
+    windows_utils.set_window_title(file_utils.generate_random_string(24))
+    other_utils.show_ascii_art()
+    other_utils.show_action_list()
+
+    match int(input("  [ Select ] => ")):
+        case 1:
+            @menu.function
+            def _case_1():
+                _c = vp.network.request.get_storage(instance=VioletProtect, file="cheats.txt")
+                vp.virtualize.pcall(file_utils.find_and_clear, _c)
+
+            _case_1()
+
+        case 2:
+            @menu.function
+            def _case_2():
+                vp.virtualize.pcall(file_utils.clear_temp)
+
+            _case_2()
+
+        case 3:
+            @menu.function
+            def _case_3():
+                vp.virtualize.pcall(file_utils.clear_prefetch)
+
+            _case_3()
+
+        case 4:
+            @menu.function
+            def _case_4():
+                _f = vp.network.request.get_storage(instance=VioletProtect, file="loader_hashes.txt")
+                __p = vp.network.request.get_storage(instance=VioletProtect, file="loader_paths.txt")
+                __s = vp.network.request.get_storage(instance=VioletProtect, file="exclude_extensions.txt")
+
+                logger.warning("Process can take more than 30 minutes")
+                vp.virtualize.pcall(file_utils.find_and_delete_files_by_hash, _f, __p, __s)
+
+            _case_4()
+
+        case 5:
+            @menu.function
+            def _case_5():
+                _v = vp.network.request.get_storage(instance=VioletProtect, file="known_virus_hashes.txt")
+                __p = vp.network.request.get_storage(instance=VioletProtect, file="loader_paths.txt")
+                _s = vp.network.request.get_storage(instance=VioletProtect, file="exclude_extensions.txt")
+
+                logger.warning("Process can take more than 30 minutes")
+                vp.virtualize.pcall(file_utils.find_files_by_hash, _v, __p, _s)
+
+            _case_5()
+
+        case 6:
+            @menu.function
+            def _case_6():
+                _k = vp.network.request.get_storage(instance=VioletProtect, file="keywords.txt")
+                _p = vp.network.request.get_storage(instance=VioletProtect, file="loader_paths.txt")
+
+                logger.warning("Process can take more than 30 minutes")
+                vp.virtualize.pcall(file_utils.find_files_by_keywords, _k, _p)
+
+            _case_6()
+
+        case 7:
+            exit(0)
+
+        case _:
+            main_menu()
