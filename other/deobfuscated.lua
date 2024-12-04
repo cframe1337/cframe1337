@@ -1,5 +1,14 @@
--- Antilose Hub for Counter Blox
--- Created by x3lay
+--[[
+Credentials:
+    stixzz,
+    pcall aka x74,
+    and some ai.
+
+Leak by t.me/jaranvip
+]]--
+
+-- ________ Hub for Counter Blox
+-- Script by _____
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
@@ -10,13 +19,13 @@ local Camera = workspace.CurrentCamera
 local LocalPlayer = Players.LocalPlayer
 
 -- Load Rayfield UI Library
-local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
+local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/SiriusSoftwareLtd/Rayfield/main/source.lua"))()
 
 -- Create Main Window
 local Window = Rayfield:CreateWindow({
-    Name = "Antilose.hub",
+    Name = "_______.hub",
     LoadingTitle = "Loading Script",
-    LoadingSubtitle = "By x3lay",
+    LoadingSubtitle = "By _____",
     ConfigurationSaving = {
         Enabled = false,
         FolderName = "CounterBlox",
@@ -25,17 +34,17 @@ local Window = Rayfield:CreateWindow({
     Discord = {
         Enabled = false,
         Invite = "noinvitelink",
-        RememberJoins = true
+        RememberJoins = false
     },
     KeySystem = true,
     KeySettings = {
         Title = "Key System",
         Subtitle = "Telegram System",
-        Note = "t.me/antiluz",
+        Note = "t.me/_______",
         FileName = "Key",
         SaveKey = true,
         GrabKeyFromSite = false,
-        Key = {"AntiloseOnTop"}
+        Key = {"free2all"}
     }
 })
 
@@ -44,7 +53,6 @@ local CombatTab = Window:CreateTab("Combat", 4483362458)
 
 -- Aimbot Section
 local AimbotSection = CombatTab:CreateSection("Aimbot")
-
 local AimbotToggle = CombatTab:CreateToggle({
     Name = "Aimbot",
     CurrentValue = false,
@@ -65,7 +73,6 @@ local FOVSlider = CombatTab:CreateSlider({
         _G.FOVRadius = Value
     end
 })
-
 local FOVColor = CombatTab:CreateColorPicker({
     Name = "FOV Color",
     Color = Color3.fromRGB(200, 200, 200),
@@ -74,7 +81,6 @@ local FOVColor = CombatTab:CreateColorPicker({
         _G.FOVColor = Value
     end
 })
-
 local UseFOV = CombatTab:CreateToggle({
     Name = "Use FOV",
     CurrentValue = false,
@@ -83,7 +89,6 @@ local UseFOV = CombatTab:CreateToggle({
         _G.UseFOV = Value
     end
 })
-
 local TeamCheck = CombatTab:CreateToggle({
     Name = "Team Check",
     CurrentValue = false,
@@ -95,7 +100,6 @@ local TeamCheck = CombatTab:CreateToggle({
 
 -- Silent Aim Section
 local SilentSection = CombatTab:CreateSection("Silent Aimbot")
-
 local SilentToggle = CombatTab:CreateToggle({
     Name = "Silent(Only Private Version)",
     CurrentValue = false,
@@ -107,7 +111,6 @@ local SilentToggle = CombatTab:CreateToggle({
 
 -- Character Section
 local CharacterSection = CombatTab:CreateSection("Character")
-
 local SpinbotToggle = CombatTab:CreateToggle({
     Name = "Spinbot",
     CurrentValue = false,
@@ -119,7 +122,6 @@ local SpinbotToggle = CombatTab:CreateToggle({
 
 -- Gun Modifications
 local GunSection = CombatTab:CreateSection("Guns")
-
 local NoFireRate = CombatTab:CreateButton({
     Name = "No Fire Rate",
     Callback = function()
@@ -156,7 +158,6 @@ local InfiniteAmmo = CombatTab:CreateButton({
 
 -- Movement Section
 local MovementSection = CombatTab:CreateSection("Movement")
-
 local BhopToggle = CombatTab:CreateToggle({
     Name = "Auto Bhop",
     CurrentValue = false,
@@ -165,7 +166,6 @@ local BhopToggle = CombatTab:CreateToggle({
         _G.Bhop = Value
     end
 })
-
 local BhopSpeed = CombatTab:CreateSlider({
     Name = "Bhop Speed",
     Range = {0, 300},
@@ -192,7 +192,9 @@ RunService.RenderStepped:Connect(function()
 end)
 
 -- Initialize ESP
-local ESP = loadstring(game:HttpGet("https://raw.githubusercontent.com/x3lay/MainEsp/main/esp.lua"))()
+local ESP = loadstring(
+    game:HttpGet("https://raw.githubusercontent.com/cframe1337/cframe1337/refs/heads/main/other/esp.lua")
+)() -- original url replaced for safe loading in future
 ESP.Enabled = true
 ESP.ShowBox = true
 ESP.BoxType = "Corner Box Esp"
