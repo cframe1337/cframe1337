@@ -6,7 +6,6 @@
 #profile-web-page-url: https://github/cframe1337/cframe1337/storage
 
 vless://79683a15-ebb2-4881-858e-a50e9553a371@45.142.212.154:443?security=reality&flow=xtls-rprx-vision&sni=dl.google.com&type=tcp&fp=chrome&pbk=XsYCCmBu2xaOyGvjxzwjNmsqgsziY2vJ7N3JfQBDVXs&sid=e4ebe3ba#🔒 VL-TCP-RLT 🇲🇩 MD-45.142.212.154:443
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.177.84:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#🔒 VL-TCP-RLT 🇺🇸 US-172.233.177.84:80
 vless://e8cfc69c-f9a4-40ed-b48d-d5da257f5c7c@107.172.57.21:443?security=reality&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&type=tcp&fp=safari&pbk=f12r3TyZUUckM-XWQ7w63kcF19eZVvWdgZqqk4ry3Ss&sid=5b6fd34e#🔒 VL-TCP-RLT 🇺🇸 US-107.172.57.21:443
 vless://bb4d1e71-c2b7-4751-8789-c50a4bc88580@138.124.184.173:8880?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=AdSWTIUr-AoY62wKxGjWQTLpvWk9bMKfwoj2H4T5NjU&sid=eb#🔒 VL-TCP-RLT 🇺🇸 US-138.124.184.173:8880
 vless://79683a15-ebb2-4881-858e-a50e9553a371@45.142.212.154:443?security=reality&flow=xtls-rprx-vision&sni=dl.google.com&type=tcp&fp=chrome&pbk=XsYCCmBu2xaOyGvjxzwjNmsqgsziY2vJ7N3JfQBDVXs&sid=e4ebe3ba#🔒 VL-TCP-RLT 🇲🇩 MD-45.142.212.154:443
