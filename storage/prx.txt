@@ -12,4 +12,3 @@ vless://e8cfc69c-f9a4-40ed-b48d-d5da257f5c7c@107.172.57.21:443?security=reality&
 vless://6a89dd80-bf11-457a-9f3b-45c0d3cb13c8@191.101.132.35:40900?security=reality&flow=xtls-rprx-vision&sni=swdist.apple.com&type=tcp&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sid=714220#🔒 VL-TCP-RLT 🇭🇰 HK-191.101.132.35:40900
 vless://e8cfc69c-f9a4-40ed-b48d-d5da257f5c7c@107.172.57.21:443?security=reality&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&type=tcp&fp=safari&pbk=f12r3TyZUUckM-XWQ7w63kcF19eZVvWdgZqqk4ry3Ss&sid=5b6fd34e#🔒 VL-TCP-RLT 🇺🇸 US-107.172.57.21:443
 vless://51a6c5c7-1ab2-416e-b4f9-ce8c39abff96@38.180.105.84:5780?security=reality&sni=refersion.com&type=tcp&fp=random&pbk=WP6WZCYxeV_2NOjLVUXF90U-KzCMi3B6YVRX5TE74TY&sid=ca6e55#🔒 VL-TCP-RLT 🇹🇷 TR-38.180.105.84:5780
-
