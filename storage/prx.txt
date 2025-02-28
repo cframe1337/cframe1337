@@ -1,7 +1,7 @@
 #profle-title:
 #profile-title: base64:4pqhY2ZyYW1lMTMzNyB8IEdSUEMvVENQIFJMVA==
 #profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2592000
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/cframe1337/cframe1337/storage
 #profile-web-page-url: https://github/cframe1337/cframe1337/storage
 
