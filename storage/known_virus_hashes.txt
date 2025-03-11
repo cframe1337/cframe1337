@@ -1,1 +1,1 @@
-[{'582c880ff198e3c81f96d7803a01bc2a5df988db8f653a7e3d634f49461536db':'Nursultan Crack(AsyncRAT)'}]
+[{'582c880ff198e3c81f96d7803a01bc2a5df988db8f653a7e3d634f49461536db': 'Nursultan Crack(AsyncRAT)'},{'15cd1b07ed2be065cdeba625d4ae7e9ea5d773a643e36a2a98af78027ab37102': 'Nursultan Crack(XWorm)'}]
