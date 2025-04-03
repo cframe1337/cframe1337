@@ -21,6 +21,9 @@
       <a href="https://www.youtube.com/@cframemovies">
         <img src="https://img.shields.io/badge/YouTube-cframemovies-red" alt="YouTube"/>
       </a>
+      <a href="https://yougame.biz/members/1077851">
+        <img src="https://img.shields.io/badge/YouGame-x74-red" alt="YouGame"/>
+      </a>
   </p>
   
 </div>
